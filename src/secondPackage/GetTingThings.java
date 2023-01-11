@@ -8,4 +8,4 @@ public class GetTingThings {
 		System.out.println("this is a sample to git  practice with git");
 	}
 }
-main                        
+                      
